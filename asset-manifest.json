@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/vinay-agam/react-seg-project.git/static/css/main.4511de81.css",
-    "main.js": "/vinay-agam/react-seg-project.git/static/js/main.766e89e0.js",
-    "index.html": "/vinay-agam/react-seg-project.git/index.html",
-    "main.4511de81.css.map": "/vinay-agam/react-seg-project.git/static/css/main.4511de81.css.map",
-    "main.766e89e0.js.map": "/vinay-agam/react-seg-project.git/static/js/main.766e89e0.js.map"
+    "main.css": "/react-seg-project/static/css/main.4511de81.css",
+    "main.js": "/react-seg-project/static/js/main.766e89e0.js",
+    "index.html": "/react-seg-project/index.html",
+    "main.4511de81.css.map": "/react-seg-project/static/css/main.4511de81.css.map",
+    "main.766e89e0.js.map": "/react-seg-project/static/js/main.766e89e0.js.map"
   },
   "entrypoints": [
     "static/css/main.4511de81.css",
